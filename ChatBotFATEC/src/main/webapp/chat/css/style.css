@@ -34,6 +34,7 @@ body {
 	width: 250px;
 	overflow-x: hidden;
 	border-color: #610B0B;
+	overflow-y: auto;
 }
 
 .chat_body {
@@ -43,6 +44,7 @@ body {
 	padding: 5px 0px;
 	overflow-x: hidden;
 	border-color: #610B0B;
+	overflow-y: auto;
 }
 
 .chat_head, .msg_head {
@@ -64,6 +66,7 @@ body {
 	border-radius: 5px 5px 0px 0px;
 	overflow-x: hidden;
 	border-color: #610B0B;
+	overflow-y: auto;
 }
 
 .msg_head {
@@ -76,10 +79,10 @@ body {
 	background: #E6E6E6;
 	height: 200px;
 	overflow-x: hidden;
-	overflow: hidden;
 	font-size: 12px;
 	padding: 15px;
-	border-color: #610B0B;	
+	border-color: #610B0B;
+	overflow-y: auto;	
 }
 
 .msg_input {

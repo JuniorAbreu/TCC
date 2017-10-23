@@ -39,7 +39,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>src.main.webapp.chat.index.php</mainClass>
+							<mainClass>src.main.webapp.chat.index.html</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
